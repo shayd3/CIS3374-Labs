@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{645851DD-F240-4F9C-8944-28C15D7FAD43}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3/Form1.cs">
+    <Files>
+      <File FileName="Lab3/Form1.cs" Line="1" Column="1" />
+      <File FileName="Lab3/frmEdit.cs" Line="18" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lab3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

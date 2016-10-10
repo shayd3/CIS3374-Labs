@@ -1,0 +1,11 @@
+/Users/Ross/Dropbox/School/CIS3374 - Quality Assurance and Testing/Labs/Lab3/Lab3/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/Ross/Dropbox/School/CIS3374 - Quality Assurance and Testing/Labs/Lab3/Lab3/obj/Debug/Lab3.Form1.resources
+/Users/Ross/Dropbox/School/CIS3374 - Quality Assurance and Testing/Labs/Lab3/Lab3/obj/Debug/Lab3.frmEdit.resources
+/Users/Ross/Dropbox/School/CIS3374 - Quality Assurance and Testing/Labs/Lab3/Lab3/obj/Debug/Lab3.Properties.Resources.resources
+/Users/Ross/Dropbox/School/CIS3374 - Quality Assurance and Testing/Labs/Lab3/Lab3/bin/Debug/Lab3.exe.config
+/Users/Ross/Dropbox/School/CIS3374 - Quality Assurance and Testing/Labs/Lab3/Lab3/bin/Debug/Lab3.exe.mdb
+/Users/Ross/Dropbox/School/CIS3374 - Quality Assurance and Testing/Labs/Lab3/Lab3/bin/Debug/Lab3.pdb
+/Users/Ross/Dropbox/School/CIS3374 - Quality Assurance and Testing/Labs/Lab3/Lab3/bin/Debug/Lab3.exe
+/Users/Ross/Dropbox/School/CIS3374 - Quality Assurance and Testing/Labs/Lab3/Lab3/obj/Debug/Lab3.exe
+/Users/Ross/Dropbox/School/CIS3374 - Quality Assurance and Testing/Labs/Lab3/Lab3/obj/Debug/Lab3.exe.mdb
+/Users/Ross/Dropbox/School/CIS3374 - Quality Assurance and Testing/Labs/Lab3/Lab3/obj/Debug/Lab3.pdb

@@ -1,0 +1,16 @@
+c:\users\chelsea\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\chelsea\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\chelsea\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\chelsea\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\chelsea\documents\visual studio 2012\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\Dropbox\Dropbox\School\CIS3374 - Quality Assurance and Testing\Labs\Lab 2\WebApplication1_Simek\WebApplication1\bin\WebApplication1.dll.config
+E:\Dropbox\Dropbox\School\CIS3374 - Quality Assurance and Testing\Labs\Lab 2\WebApplication1_Simek\WebApplication1\bin\WebApplication1.dll
+E:\Dropbox\Dropbox\School\CIS3374 - Quality Assurance and Testing\Labs\Lab 2\WebApplication1_Simek\WebApplication1\bin\WebApplication1.pdb
+E:\Dropbox\Dropbox\School\CIS3374 - Quality Assurance and Testing\Labs\Lab 2\WebApplication1_Simek\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\Dropbox\Dropbox\School\CIS3374 - Quality Assurance and Testing\Labs\Lab 2\WebApplication1_Simek\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Dropbox\Dropbox\School\CIS3374 - Quality Assurance and Testing\Labs\Lab 2\WebApplication1_Simek\WebApplication1\obj\Debug\WebApplication1.pdb

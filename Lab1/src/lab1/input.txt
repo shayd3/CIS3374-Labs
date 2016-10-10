@@ -1,0 +1,15 @@
+Name: Ryan Richard Ross
+
+Age: 20
+
+TUID: 123456789
+
+Email: ryan.ross@temple.edu
+
+Phone Number: 2159832573
+
+Major: IS&T
+
+Expected to graduate: 02/2018
+
+Undergraduate: y

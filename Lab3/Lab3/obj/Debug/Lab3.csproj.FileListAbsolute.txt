@@ -1,0 +1,20 @@
+E:\Dropbox\Dropbox\School\CIS3374 - Quality Assurance and Testing\Labs\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\tuf40347\Downloads\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\tuf40347\Downloads\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\tuf40347\Downloads\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\tuf40347\Downloads\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\tuf40347\Downloads\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\tuf40347\Downloads\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\tuf40347\Downloads\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+C:\Users\tuf40347\Downloads\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\tuf40347\Downloads\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\tuf40347\Downloads\Lab3\Lab3\obj\Debug\Lab3.frmEdit.resources
+E:\Dropbox\Dropbox\School\CIS3374 - Quality Assurance and Testing\Labs\Lab3\Lab3\obj\Debug\Lab3.exe
+E:\Dropbox\Dropbox\School\CIS3374 - Quality Assurance and Testing\Labs\Lab3\Lab3\obj\Debug\Lab3.pdb
+E:\Dropbox\Dropbox\School\CIS3374 - Quality Assurance and Testing\Labs\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+E:\Dropbox\Dropbox\School\CIS3374 - Quality Assurance and Testing\Labs\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+E:\Dropbox\Dropbox\School\CIS3374 - Quality Assurance and Testing\Labs\Lab3\Lab3\obj\Debug\Lab3.frmEdit.resources
+E:\Dropbox\Dropbox\School\CIS3374 - Quality Assurance and Testing\Labs\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+E:\Dropbox\Dropbox\School\CIS3374 - Quality Assurance and Testing\Labs\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+E:\Dropbox\Dropbox\School\CIS3374 - Quality Assurance and Testing\Labs\Lab3\Lab3\bin\Debug\Lab3.exe
+E:\Dropbox\Dropbox\School\CIS3374 - Quality Assurance and Testing\Labs\Lab3\Lab3\bin\Debug\Lab3.pdb
